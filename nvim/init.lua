@@ -1,0 +1,6 @@
+require("romin.plugins-setup")
+require("romin.core.options")
+require("romin.core.keymaps")
+require("romin.core.colorscheme")
+require("romin.plugins.lualine")
+require("romin.plugins.nvim-tree")
